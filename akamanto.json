@@ -1,14 +1,10 @@
-{
-  "name": "Nguồn Game Aka Manto",
-  "downloads": [
-    {
-      "title": "[Chilla's Art] Aka Manto | 赤マント",
-      "fileSize": "1.5 GB",
-      "uploadDate": "2026-07-23",
-      "downloadUrl": "https://bzzhr.to/zwbnksq33uk4",
-      "uris": [
-        "https://bzzhr.to/zwbnksq33uk4"
-      ]
-    }
-  ]
-}
+[
+  {
+    "title": "[Chilla's Art] Aka Manto | 赤マント",
+    "fileSize": "1.5 GB",
+    "uploadDate": "2026-07-23T00:00:00.000Z",
+    "uris": [
+      "https://bzzhr.to/zwbnksq33uk4"
+    ]
+  }
+]
